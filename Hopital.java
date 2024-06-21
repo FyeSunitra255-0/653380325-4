@@ -1,3 +1,6 @@
 public class Hopital{
- test
+ String name;
+ public Hopital(){
+    
+ }
 }
