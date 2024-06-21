@@ -1,3 +1,3 @@
 public class Hopital{
- test
+ I love Thai
 }
